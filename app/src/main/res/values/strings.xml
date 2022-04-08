@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Facebook SignIn</string>
+    <string name="facebook_app_id">a</string>
+    <string name="fb_login_protocol_scheme">b</string>
+</resources>

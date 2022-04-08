@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "230567730187",
+    "project_id": "facebook-signin-java",
+    "storage_bucket": "facebook-signin-java.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230567730187:android:ab349351e7f8a7a3a43b0e",
+        "android_client_info": {
+          "package_name": "com.example.facebooksignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230567730187-hh6j71l1c4uvmn39k7236rird7thtj4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facebooksignin",
+            "certificate_hash": "70411f747c6880e8c7de6aa79a19f43cad339fa0"
+          }
+        },
+        {
+          "client_id": "230567730187-i5akeqlauu0epr1k66629rn80g6pcant.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuqEXZNdtgMbYDm1cHvAhdwgJ1uA27Iro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230567730187-i5akeqlauu0epr1k66629rn80g6pcant.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
